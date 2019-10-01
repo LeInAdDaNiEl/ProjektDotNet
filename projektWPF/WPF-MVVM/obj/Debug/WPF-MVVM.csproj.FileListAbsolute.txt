@@ -1,0 +1,66 @@
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\bin\Debug\WPF-MVVM.exe.config
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\bin\Debug\WPF-MVVM.exe
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\bin\Debug\WPF-MVVM.pdb
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\bin\Debug\Newtonsoft.Json.dll
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\bin\Debug\Newtonsoft.Json.xml
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.csprojAssemblyReference.cache
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\MainWindow.g.cs
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\App.g.cs
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.cache
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.lref
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\App.baml
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\MainWindow.baml
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.g.resources
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.GenerateResource.cache
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CoreCompileInputs.cache
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CopyComplete
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.exe
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\WPF-MVVM.pdb
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\AddWindow.g.cs
+j:\Desktop\Cwiczenia .net\WPF-MVVM\WPF-MVVM\obj\Debug\AddWindow.baml
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.csprojAssemblyReference.cache
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\MainWindow.g.cs
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\AddWindow.g.cs
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\App.g.cs
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.cache
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.lref
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.exe
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.pdb
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\bin\Debug\WPF-MVVM.exe.config
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\bin\Debug\WPF-MVVM.exe
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\bin\Debug\WPF-MVVM.pdb
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\bin\Debug\Newtonsoft.Json.dll
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\bin\Debug\Newtonsoft.Json.xml
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\App.baml
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\MainWindow.baml
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\AddWindow.baml
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.g.resources
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.GenerateResource.cache
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CoreCompileInputs.cache
+j:\Desktop\Cwiczenia .net\430501-wpf\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CopyComplete
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.csprojAssemblyReference.cache
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\AddWindow.g.cs
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\App.g.cs
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.cache
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM_MarkupCompile.lref
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.exe
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.pdb
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\MainWindow.baml
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\AddWindow.baml
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\bin\Debug\WPF-MVVM.exe.config
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\bin\Debug\WPF-MVVM.exe
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\bin\Debug\WPF-MVVM.pdb
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\App.baml
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.g.resources
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.GenerateResource.cache
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Dainiel\Desktop\projekt\WPF-MVVM\obj\Debug\WPF-MVVM.csproj.CopyComplete
