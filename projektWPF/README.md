@@ -1,2 +1,2 @@
-# 430579-WPF
+# 430579-WPF Daniel Skrzypczak
 
